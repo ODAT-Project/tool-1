@@ -1,3 +1,6 @@
+#Developed by ODAT project
+#please see https://odat.info
+#please see https://github.com/ODAT-Project
 import os
 import pandas as pd
 import tkinter as tk
